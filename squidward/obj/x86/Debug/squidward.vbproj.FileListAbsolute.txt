@@ -1,0 +1,9 @@
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\bin\Debug\squidward.exe
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\bin\Debug\squidward.pdb
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\bin\Debug\squidward.xml
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\obj\x86\Debug\squidward.Form1.resources
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\obj\x86\Debug\squidward.Resources.resources
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\obj\x86\Debug\squidward.vbproj.GenerateResource.Cache
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\obj\x86\Debug\squidward.exe
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\obj\x86\Debug\squidward.xml
+c:\users\um klasky glasses\documents\visual studio 2010\Projects\squidward\squidward\obj\x86\Debug\squidward.pdb
