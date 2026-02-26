@@ -18,5 +18,5 @@ It' Made on the Visual Studio 2010, tested on the Windows 711
 
 
 
-I held off from making this open cuz I couldn't figure out exactly how to make the "customize start menu" open directly to the Staert menu properties, as i could only make it open on the Task bar tab  But its whatever now, Soz
+I held off from making this open for so long cuz I couldn't figure out exactly how to make the "customize start menu" open directly to the Staert menu properties, as i could only make it open on the Task bar tab  But its whatever now, Soz
 
